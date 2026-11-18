@@ -1,0 +1,27 @@
+{
+  "sdk": "godot",
+  "version": "2.2.0",
+  "sourceCommit": "86569d20029f2cbc389deca6fadc24c7ede26457",
+  "sha256": {
+    "LICENSE": "472c050cdd70ebad87871cb0ed5398dc783cc52d7d9e716faf932e01b8cbab74",
+    "README.md": "1921f34ebd1ac053e769c6edcef8f78146fc9080ca36d1e9bfe37ffeb2f21576",
+    "addons/permitcore/permitcore_client.gd": "b7c96f8ebd4a1f68b546085e896f325148e6874eaa1199780603980d4eb61e41",
+    "addons/permitcore/permitcore_client.gd.uid": "d5e2691d1fff28181889fa203ac8a460d80792179410901bf7d069e3f6db2d27",
+    "addons/permitcore/permitcore_crypto.gd": "76e4ccdf3f4a49f0a16e79acc17c919e62ee43ef1802431e122c0b612635f09c",
+    "addons/permitcore/permitcore_crypto.gd.uid": "d60443f59639d46148fc93683787cb08130742923ba78de25a1023dfea7767e5",
+    "addons/permitcore/permitcore_transport.gd": "e4c07ed3bd9ca9d6177d1821723291a03cdad6c5fb854aaf66b21d223cc0dccd",
+    "addons/permitcore/permitcore_types.gd": "1560c0d9f871e63c3dc869f0bc38cf473de49a2faa6c945547a5907ac29d1ee1",
+    "addons/permitcore/permitcore_types.gd.uid": "853e7456d7b42313830571e7e3908573600cf9d247e647b7cc1d2fbd22b1b12d",
+    "addons/permitcore/plugin.cfg": "c89af4bbab229ff364dfdc2de7279d51445fb3a7dccc3feb685d99050cbd8daf",
+    "addons/permitcore/plugin.gd": "26f3d0e5add58118a176af339e123b0bf2e8eb0a284ea3d3cf7604dc2a7d7ea8",
+    "addons/permitcore/plugin.gd.uid": "570d98801c53222a31a3e77c66f8be2ce132f3552ffb63969983041ebe21c155",
+    "engine-lock.json": "e5d56664d9fc579ce7e902902cb31490af5d266ccc0c272a305b4b02baeaa190",
+    "project.godot": "b055a470c166c1caf93c75f008c7b2cd6bc6aba3cda7af0b0d6450e8ee4c3f79",
+    "test-vectors/http-contract.json": "b1a340cde1d984dd128fad675ec102b0af1f70802df4b50e1c071be3fd3a9f26",
+    "test-vectors/vectors.json": "6bbd8c58d682b6e7482fe6ee70d8fdc4f387a324159543b976084660d8f88447",
+    "tests/requirements.txt": "2e861c4c8540bd56d4534870f9d3bae3e5717ea83a80872932397ce6bc560124",
+    "tests/run_tests.py": "b2cc0f076d4b9f6c3df7b8d4e7b7ab7b87ad094223c299ce7ece37c6f2d202f5",
+    "tests/security_fixtures.py": "876e7672b05f887e5664483bc77daf3e00effac170e54e9a278a7b06313b99de",
+    "tests/test_client.gd": "c268c4d9970640c7db199e94d1237eef697867cc7b3229d969d13b275b4e6e6b"
+  }
+}

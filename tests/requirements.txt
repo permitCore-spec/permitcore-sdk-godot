@@ -1,0 +1,3 @@
+# Test-only: generates independent ECDSA proofs and disposable TLS fixtures.
+# The Godot add-on itself has no external dependencies.
+cryptography==49.0.0
