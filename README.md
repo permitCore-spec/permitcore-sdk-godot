@@ -4,7 +4,9 @@ Native GDScript add-on for Godot4.7+, source version2.2.0. Full shared PermitCor
 surface: product-scoped validation and nonce-protected activation, device removal, usage
 reporting, floating sessions and configured-trust offline activation/grace caches.
 
-This source is a release candidate until the dated release receipt confirms publication.
+Version2.2.0 is published on [GitHub](https://github.com/permitCore-spec/permitcore-sdk-godot/releases/tag/v2.2.0).
+It is also available on the [Godot Asset Store](https://store.godotengine.org/asset/permitcore/permitcore-sdk/)
+(public page and version2.2.0 download verified on20November2026).
 Godot4.7.2 native tests pass on Windows, Linux and macOS. The Windows editor and interactive
 Windows release export are checked; a Linux x86_64 release export starts headlessly. Real
 hosted acceptance covers activation, product/feature checks, signed grace/manual proof,
